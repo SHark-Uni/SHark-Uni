@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://velog.io/@phantom5087" target="_blank"><img src="https://img.shields.io/badge/블로그-#20C997?style=flat-square&logo=Velog&logoColor=#20C997"/></a>
+<a href="https://velog.io/@phantom5087" target="_blank"><img src="https://img.shields.io/badge/blog-#20C997?style=flat-square&logo=Velog&logoColor=#20C997"/></a>
 <!--
 **SHark-Uni/SHark-Uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
