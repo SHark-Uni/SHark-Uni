@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>
   <a href="https://velog.io/@phantom5087" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=20C997&logoWidth=40&logoHeight=40"/>
+    <img src="https://img.shields.io/badge/Blog-Velog-brightgreen?style=flat-square&logo=blogger&logocolor=20C997"/>
   </a>
   </p>
 <!--
