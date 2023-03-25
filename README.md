@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! THis is SHark 🎣
 <p>
   <a href="https://velog.io/@phantom5087" target="_blank">
     <img src="https://img.shields.io/badge/Blog-Shark's__velog-brightgreen?style=flat-square&logo=velog&logocolor=20C997"/>
