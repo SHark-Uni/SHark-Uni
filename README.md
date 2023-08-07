@@ -24,7 +24,7 @@ Language
  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"/>
- <img src="https://img.shields.io/badge/OpenJDK-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black"/>
  <img src="https://img.shields.io/badge/Korean-00599C?style=for-the-badge&logoColor=black"/>
 </p>
 
