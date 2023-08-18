@@ -1,9 +1,8 @@
 🎣 Welcome! SHark's GitHub 🎣
 ---------------------------------------
-안녕하세요 ! 현재 방황하고 있는 대학생 SHarkkk입니다...
+안녕하세요 ! SHarkkk입니다.
 
-  <p>⚠ 정답없는 문제를 해결하는 걸 좋아하는 이상한(?) 사람입니다.</p>
-  <p>⚠ 현재, Java로 기술변환 중 입니다.</p>
+  <p>⚠ 현재, Java 상어로 진화중 입니다.</p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shark-Uni&show_icons=true&theme=radical)
 
